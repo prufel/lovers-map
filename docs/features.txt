@@ -1,0 +1,8 @@
+- wlasna ikonka markera, serduszko
+- formularz wprowadzania markera krotki opis/dlugi opis/ data , uploader do zdjec lub wstawienie linka do zdjecia i skorzytanie wtedy z api picassy 
+
+https://developers.google.com/picasa-web/
+https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple
+
+aplikacja JAX-RS wystawiajaca te punkty dla mapki
+na pocz¹tek mock bez tego 
